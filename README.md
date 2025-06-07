@@ -1,3 +1,2 @@
 # IntroToCPP
-All my programs from intro to c++  
-Will add all assignments later on when I have more time to look through each assignment
+All my programs from intro to c++  excluding my final, that one is in its own repo (Habit-Tracker repo)
